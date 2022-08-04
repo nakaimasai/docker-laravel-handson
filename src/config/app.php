@@ -95,6 +95,7 @@ return [
     |
     */
 
+    'locale' => 'jp',
     'fallback_locale' => 'en',
 
     /*
